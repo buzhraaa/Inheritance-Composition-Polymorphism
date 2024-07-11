@@ -1,2 +1,3 @@
 
 # InherCompPoly
+# Inheritance-Composition-Polymorphism
